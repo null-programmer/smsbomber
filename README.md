@@ -1,7 +1,7 @@
 # smsbomber
 created by null-programmer
 
-##Install :
+## Install package [apt or pkg] :
 
 - ```apt upgrade && apt update```
 - ```apt install python python3```
