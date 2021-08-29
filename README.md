@@ -1,8 +1,6 @@
 # smsbomber
 created by null-programmer
-
-#install :
-
+#install
 -apt upgrade && apt update
 -apt install python python3 [ or uing pkg in termux ]
 -apt install pip
