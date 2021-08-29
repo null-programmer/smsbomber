@@ -1,4 +1,4 @@
-import requests ,os
+import requests ,os,time
 from colorama import Fore,Style
 
 os.system("clear" or "cls")
@@ -24,6 +24,7 @@ else:
             digikala = 0
 
             try:
+                time.sleep(1)
                 #--------------------------------------------------------------
                 while digikala <=2:
                     req_torob = requests.get(api_torob+"0"+number)
