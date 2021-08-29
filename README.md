@@ -8,4 +8,4 @@ apt install pip
 pip install requests
 pip install colorama
 ```
-- [ ] ps
+-  ps
