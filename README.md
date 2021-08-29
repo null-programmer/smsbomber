@@ -3,9 +3,9 @@ created by null-programmer
 
 #install :
 
--[]apt upgrade && apt update
--[]apt install python python3 [ or uing pkg in termux ]
--[]apt install pip
--[]pip install requests
--[]pip install colorama
+-[x]apt upgrade && apt update
+-[x]apt install python python3 [ or uing pkg in termux ]
+-[x]apt install pip
+-[x]pip install requests
+-[x]pip install colorama
 
